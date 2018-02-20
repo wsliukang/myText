@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="xiteng_news:ear exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/xiteng_news_ear_exploded</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="root" />
+  </artifact>
+</component>
